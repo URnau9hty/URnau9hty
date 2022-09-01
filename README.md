@@ -6,7 +6,7 @@
 <br>
 <body style="width:380px">
 クシャトリラ・フェンリル<br>
-怒刹利巨狼&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font align="right">地</font><br>
+怒&ensp;&ensp;刹&ensp;利&ensp;&ensp;&ensp;巨&ensp;&ensp;狼&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font align="right">地</font><br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:star::star::star::star::star::star::star:<br>  
 [念动力/效果]<br>
 这个卡名的②③效果1回合各能使用1次。<br>
