@@ -6,8 +6,8 @@
 <br>
 <body style="width:380px">
 クシャトリラ・フェンリル<br>
-怒&ensp;&ensp;刹&ensp;利&ensp;&ensp;&ensp;巨&ensp;&ensp;狼&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font align="right">地</font><br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:star::star::star::star::star::star::star:<br>  
+&emsp;怒&emsp;刹&emsp;利&emsp;&emsp;巨&emsp;狼&emsp;&emsp;&emsp;&emsp;&emsp;<font align="right">地</font><br>
+&emsp;&emsp;&emsp;&emsp;:star::star::star::star::star::star::star:<br>  
 [念动力/效果]<br>
 这个卡名的②③效果1回合各能使用1次。<br>
 ①：自己场上没有怪兽存在的场合，这张卡可以从手牌特殊召唤。<br>
