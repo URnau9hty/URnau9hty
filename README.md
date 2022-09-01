@@ -6,8 +6,8 @@
 <br>
 <body style="width:380px">
 クシャトリラ・フェンリル<br>
-怒刹利巨狼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font align="right">地</font><br>
-&nbsp;&nbsp;:star::star::star::star::star::star::star:<br>  
+怒刹利巨狼&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font align="right">地</font><br>
+&ensp;&ensp;&ensp;:star::star::star::star::star::star::star:<br>  
 [念动力/效果]<br>
 这个卡名的②③效果1回合各能使用1次。<br>
 ①：自己场上没有怪兽存在的场合，这张卡可以从手牌特殊召唤。<br>
